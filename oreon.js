@@ -74,7 +74,8 @@ app.post('/borraLista', function(req, res) {
 		res.send("Lista eliminada");
 	})
 });
-
+/*
 app.listen(3000, () => {
 	console.log("Escuchando en el puerto 3000");
 });
+*/
